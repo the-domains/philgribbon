@@ -1,0 +1,28 @@
+name: PhilGribbon
+favicon: null
+layout_spectrum: 0.9141417911741883
+typography_spectrum: 0.08918472495861351
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7014921181835234
+  lightness: 0.11501716612838209
+  saturation: 0.6909762490540743
+  rhythmicContrast: 0.012588113779202104
+purpose: []
